@@ -8,10 +8,6 @@
         "cape": "entity_alphatest",
         "animated": "player_animated"
       },
-      "textures": {
-        "default": "textures/entity/steve",
-        "cape": "textures/entity/cape_invisible"
-      },
       "geometry": {
         "default": "geometry.humanoid.custom",
         "cape": "geometry.cape"
