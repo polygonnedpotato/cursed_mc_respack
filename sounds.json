@@ -83,6 +83,7 @@
         "record.ward": { "sound": "record.ward", "volume": 1.0, "pitch": 1.0 },
         "record.11": { "sound": "record.11", "volume": 1.0, "pitch": 1.0 },
         "record.wait": { "sound": "record.wait", "volume": 1.0, "pitch": 1.0 },
+        "record.d_00": {"sound":"record.d_00", "volume":1.0, "pitch":1.0},
         "launch":  {"sound":  "firework.launch", "volume": 1.0, "pitch":  1.0 },     
         "blast":  {"sound":  "firework.blast", "volume": 1.0, "pitch":  1.0 },     
         "large.blast":  {"sound":  "firework.large_blast", "volume": 1.0, "pitch":  1.0 },          

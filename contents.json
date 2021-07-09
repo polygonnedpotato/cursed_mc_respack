@@ -3175,7 +3175,7 @@
             "path": "sounds/block/beehive/work4.fsb"
         },
         {
-            "path": "sounds/block/bell/bell_use01.fsb"
+            "path": "sounds/block/bell/bell_use01.ogg"
         },
         {
             "path": "sounds/block/bell/bell_use02.fsb"
@@ -8918,6 +8918,9 @@
         },
         {
             "path": "sounds/mob/zombie_villager/say3.fsb"
+        },
+        {
+            "path": "sounds/music/game/records/d_00.ogg"
         },
         {
             "path": "sounds/music/menu/menu1.ogg"
@@ -15470,6 +15473,9 @@
         },
         {
             "path": "textures/items/record_ward.png"
+        },
+        {
+            "path": "textures/items/record_d_00.png"
         },
         {
             "path": "textures/items/redstone_dust.png"

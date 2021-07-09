@@ -650,6 +650,9 @@
     "record_ward": {
       "textures": "textures/items/record_ward"
     },
+    "record_d_00": {
+      "textures": "textures/items/record_d_00"
+    },
     "record_pigstep": {
       "textures": "textures/items/record_pigstep"
     },

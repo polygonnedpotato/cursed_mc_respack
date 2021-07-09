@@ -6059,6 +6059,17 @@
       }
     ]
   },
+  "record.d_00":{
+    "max_distance": 64.0,
+    "sounds":[
+      {
+        "name": "sounds/music/game/records/d_00",
+        "stream": true,
+        "volume": 0.5,
+        "load_on_low_memory":true
+      }
+    ]
+  },
   "raid.horn": {
     "category": "neutral",
     "max_distance": 128.0,

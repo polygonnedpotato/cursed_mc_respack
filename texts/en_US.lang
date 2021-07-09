@@ -4775,6 +4775,7 @@ item.record_strad.desc=C418 - strad
 item.record_wait.desc=C418 - wait
 item.record_ward.desc=C418 - ward
 item.record_pigstep.desc=Lena Raine - Pigstep
+item.record_d_00.desc=Leonz - Among Us Drip
 item.redstone.name=Redstone Dust
 item.reeds.name=Sugar Canes
 item.kelp.name=Kelp
@@ -6383,7 +6384,7 @@ recipeBook.setting.full=Full
 recipeBook.setting.discover=Discover
 recipeBook.setting.off=Off
 
-record.nowPlaying=Now playing: %s
+record.nowPlaying=current spotify track: %s
 
 resourcePack.available.title=Available Resource Packs
 resourcePack.available.title.behaviorPacks=Available Behavior Packs
@@ -6764,7 +6765,7 @@ soundCategory.master=Main
 soundCategory.music=Music
 soundCategory.neutral=Friendly Creatures
 soundCategory.player=Players
-soundCategory.record=Jukebox/Note Blocks
+soundCategory.record=music
 soundCategory.weather=Weather
 soundCategory.texttospeech=Text to Speech
 
