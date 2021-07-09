@@ -2436,7 +2436,7 @@ enchantment.protect.fall=Feather Falling
 enchantment.protect.fire=Fire Protection
 enchantment.protect.projectile=Projectile Protection
 enchantment.soul_speed=Soul Speed
-enchantment.thorns=Thorns
+enchantment.thorns=karma
 enchantment.untouching=Silk Touch
 enchantment.waterWalker=Depth Strider
 enchantment.waterWorker=Aqua Affinity
@@ -3664,6 +3664,35 @@ howtoplay.weapons.text.6.notTouch=The Trident is a dual-purpose melee and ranged
 howtoplay.weapons.text.6.touch=The Trident is a dual-purpose melee and ranged weapon. Tap mobs to attack them. Press and hold the Screen to draw the trident back. Release the press to throw the trident. The Trident is the best weapon underwater.
 howtoplay.weapons.header.5=Enchanted Weapons
 howtoplay.weapons.text.7=The Sword, Bow, Crossbow, and Trident have specific enchantments that you can get from the Enchanting Table or Anvil that will improve damage, durability and even light mobs on fire!
+
+howtoplay.aboutResPack=Resource Pack Info
+howtoplay.aboutResPack.title=Cursed Minecraft Resource Package : Information
+howtoplay.aboutResPack.header.1=Why I Made This
+howtoplay.aboutResPack.text.1=Basically, I got bored and decided to make my own resource package for Minecraft.
+howtoplay.aboutResPack.text.2=I am sorry if your brain stops working while using this.
+howtoplay.aboutResPack.header.2=Credits
+howtoplay.aboutResPack.text.3=Name: "Main Theme"
+howtoplay.aboutResPack.text.4=Creators: "Jonne Valtonen", "Jani Laaksonen"
+howtoplay.aboutResPack.text.5=Source: "Cities: Skylines"
+howtoplay.aboutResPack.text.6=Usage: "menu1" ("sounds/music/menu/menu1.ogg")
+howtoplay.aboutResPack.text.7=
+howtoplay.aboutResPack.text.8=Name: "fart with extra reverb"
+howtoplay.aboutResPack.text.9=Creator: "DairyOrange"
+howtoplay.aboutResPack.text.10=Source: "YouTube"
+howtoplay.aboutResPack.text.11=Usage: "cave1" ("sounds/cave/cave1.ogg")
+howtoplay.aboutResPack.text.12=
+howtoplay.aboutResPack.text.13=Name: "505.WAV"
+howtoplay.aboutResPack.text.14=Creator: "Maxis"
+howtoplay.aboutResPack.text.15=Source: "SimCity 2000"
+howtoplay.aboutResPack.text.16=Usage: "click" ("sounds/random/click.ogg")
+howtoplay.aboutResPack.text.17=
+howtoplay.aboutResPack.text.18=©2021 Brendan Berger
+
+
+
+
+
+
 
 howtoplay.whatsNew=things now in this update
 

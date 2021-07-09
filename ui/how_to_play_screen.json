@@ -5171,5 +5171,63 @@
         }
       }
     ]
+  },
+  "aboutResPack_button@how_to_play_common.section_toggle_button": {
+    "$section_topic": "aboutResPack"
+  },
+
+  "aboutResPack_section@how_to_play_common.main_sections": {
+    "bindings": [
+      {
+        "binding_type": "view",
+        "source_control_name": "aboutResPack_button_toggle",
+        "source_property_name": "#toggle_state",
+        "target_property_name": "#visible"
+      }
+    ],
+    "controls": [
+      {
+        "header_1@how_to_play_common.header": {
+          "$text": "howtoplay.aboutResPack.header.1"
+        }
+      },
+      {
+        "paragraph_1@how_to_play_common.paragraph": {
+          "$text": "howtoplay.aboutResPack.text.1"
+        }
+      },
+      { "padding_1@how_to_play_common.padding": {} },
+      {
+        "paragraph_2@how_to_play_common.paragraph": {
+          "$text": "howtoplay.aboutResPack.text.2."
+        }
+      },
+      { "padding_2@how_to_play_common.padding": {} },
+      {
+        "header_2@how_to_play_common.header": {
+          "$text": "howtoplay.aboutResPack.header.2"
+        }
+      },
+      {
+        "paragraph_3@how_to_play_common.paragraph": {
+          "$text": "howtoplay.aboutResPack.text.3"
+        }
+      },
+      {
+        "paragraph_4@how_to_play_common.paragraph": {
+          "$text": "howtoplay.aboutResPack.text.4"
+        }
+      },
+      {
+        "paragraph_5@how_to_play_common.paragraph": {
+          "$text": "howtoplay.weapons.text.5"
+        }
+      },
+      {
+        "paragraph_4@how_to_play_common.paragraph": {
+          "$text": "howtoplay.weapons.text.4"
+        }
+      },
+    ]
   }
 }
