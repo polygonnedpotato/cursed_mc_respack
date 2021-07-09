@@ -4297,7 +4297,7 @@
             "path": "sounds/camera/camera_snap3.fsb"
         },
         {
-            "path": "sounds/cave/cave1.fsb"
+            "path": "sounds/cave/cave1.ogg"
         },
         {
             "path": "sounds/cave/cave10.fsb"
@@ -9058,7 +9058,7 @@
             "path": "sounds/random/chestopen.fsb"
         },
         {
-            "path": "sounds/random/click.fsb"
+            "path": "sounds/random/click.ogg"
         },
         {
             "path": "sounds/random/door_close.fsb"
