@@ -1,8 +1,3 @@
-/*
- - Default is the settings that a biome will use if it is not specified.
- - All fields in a biome are optional default values will overwrite the missing ones.
- - If the default is overwritten in a resource pack then it will overwrite all biomes unless the resource pack defines the biomes.
-  */
 {
   "biomes": {
     "default": {
@@ -45,15 +40,15 @@
       "water_fog_color": "#1E6B82"
     },
     "swampland": {
-      "water_surface_color": "#4c6559",
+      "water_surface_color": "#482103",
       "water_surface_transparency": 1.0,
-      "water_fog_color": "#4c6559",
+      "water_fog_color": "#004926",
       "water_fog_distance": 8
     },
     "swampland_mutated": {
-      "water_surface_color": "#4c6156",
+      "water_surface_color": "#007404",
       "water_surface_transparency": 1.0,
-      "water_fog_color": "#4c6156",
+      "water_fog_color": "#008741",
       "water_fog_distance": 8
     },
     "river": {

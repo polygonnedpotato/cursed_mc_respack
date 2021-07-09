@@ -8920,6 +8920,9 @@
             "path": "sounds/mob/zombie_villager/say3.fsb"
         },
         {
+            "path": "sounds/music/menu/menu1.ogg"
+        },
+        {
             "path": "sounds/note/banjo.fsb"
         },
         {
