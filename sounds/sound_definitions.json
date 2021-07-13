@@ -6,9 +6,7 @@
       {
         "name": "sounds/ambient/weather/thunder1",
         "load_on_low_memory": true
-      },
-      "sounds/ambient/weather/thunder2",
-      "sounds/ambient/weather/thunder3"
+      }
     ]
   },
   "ambient.weather.lightning.impact": {

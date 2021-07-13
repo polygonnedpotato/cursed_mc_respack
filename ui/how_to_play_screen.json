@@ -5220,14 +5220,74 @@
       },
       {
         "paragraph_5@how_to_play_common.paragraph": {
-          "$text": "howtoplay.weapons.text.5"
+          "$text": "howtoplay.aboutResPack.text.5"
         }
       },
       {
-        "paragraph_4@how_to_play_common.paragraph": {
-          "$text": "howtoplay.weapons.text.4"
+        "paragraph_6@how_to_play_common.paragraph": {
+          "$text": "howtoplay.aboutResPack.text.6"
         }
       },
+      {
+        "paragraph_7@how_to_play_common.paragraph": {
+          "$text": "howtoplay.aboutResPack.text.7"
+        }
+      },
+      {
+        "paragraph_8@how_to_play_common.paragraph": {
+          "$text": "howtoplay.aboutResPack.text.8"
+        }
+      },
+      {
+        "paragraph_9@how_to_play_common.paragraph": {
+          "$text": "howtoplay.aboutResPack.text.9"
+        }
+      },
+      {
+        "paragraph_10@how_to_play_common.paragraph": {
+          "$text": "howtoplay.aboutResPack.text.10"
+        }
+      },
+      {
+        "paragraph_11@how_to_play_common.paragraph": {
+          "$text": "howtoplay.aboutResPack.text.11"
+        }
+      },
+      {
+        "paragraph_12@how_to_play_common.paragraph": {
+          "$text": "howtoplay.aboutResPack.text.12"
+        }
+      },
+      {
+        "paragraph_13@how_to_play_common.paragraph": {
+          "$text": "howtoplay.aboutResPack.text.13"
+        }
+      },
+      {
+        "paragraph_14@how_to_play_common.paragraph": {
+          "$text": "howtoplay.aboutResPack.text.14"
+        }
+      },
+      {
+        "paragraph_15@how_to_play_common.paragraph": {
+          "$text": "howtoplay.aboutResPack.text.15"
+        }
+      },
+      {
+        "paragraph_16@how_to_play_common.paragraph": {
+          "$text": "howtoplay.aboutResPack.text.16"
+        }
+      },
+      {
+        "paragraph_17@how_to_play_common.paragraph": {
+          "$text": "howtoplay.aboutResPack.text.17"
+        }
+      },
+      {
+        "paragraph_18@how_to_play_common.paragraph": {
+          "$text": "howtoplay.aboutResPack.text.18"
+        }
+      }
     ]
   }
 }

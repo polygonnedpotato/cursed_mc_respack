@@ -2767,13 +2767,7 @@
             "path": "sounds/ambient/weather/rain4.fsb"
         },
         {
-            "path": "sounds/ambient/weather/thunder1.fsb"
-        },
-        {
-            "path": "sounds/ambient/weather/thunder2.fsb"
-        },
-        {
-            "path": "sounds/ambient/weather/thunder3.fsb"
+            "path": "sounds/ambient/weather/thunder1.ogg"
         },
         {
             "path": "sounds/armor/equip_chain1.fsb"
@@ -8446,7 +8440,7 @@
             "path": "sounds/mob/villager/hit4.fsb"
         },
         {
-            "path": "sounds/mob/villager/idle1.fsb"
+            "path": "sounds/mob/villager/idle1.ogg"
         },
         {
             "path": "sounds/mob/villager/idle2.fsb"
@@ -8920,7 +8914,13 @@
             "path": "sounds/mob/zombie_villager/say3.fsb"
         },
         {
+            "path": "sounds/music/game/calm1.ogg"
+        },
+        {
             "path": "sounds/music/game/records/d_00.ogg"
+        },
+        {
+            "path": "sounds/music/game/records/blocks.ogg"
         },
         {
             "path": "sounds/music/menu/menu1.ogg"
